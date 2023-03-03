@@ -1,0 +1,19 @@
+img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  height: 200px;
+  width: 200px;
+}
+
+.menu {
+  width: 300px;
+  height: 300px;
+  position: relative;
+}
+
+.menu li {
+  /* display: none; */
+}
+/*# sourceMappingURL=style.css.map */
